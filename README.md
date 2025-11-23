@@ -12,6 +12,6 @@ It calculates your age based on your birth date and the current date.
 ## How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/age_calculator.git
+   git clone https://github.com/vikasboddu11/age_calculator.git
 ## Images
     Images in this project is used for education pupose only
